@@ -37,6 +37,12 @@ Creating Dockerfiles
 
 Using Docker Compose
 - Wrote a `docker-compose.yml` to run **both frontend and backend containers** together.
+
+
+
+
+
+![Image alt](https://github.com/Priya-Kumari-108/Docker-Assignment/blob/bbbf269db9bb73fe0d3dd47cebc41e0e563fc2e3/Screenshot%20from%202025-09-18%2017-03-51.png)
 - Defined services with proper ports, container names, and dependencies.
 
 Debugging Issues

@@ -57,7 +57,11 @@ Pushing to Docker Hub
 - Pushed both images successfully using:
   ```bash
   docker push priyakumari108/docker-assignment-108:backend
-  docker push priyakumari108/docker-assignment-108:frontend
+
+
+Priya Kumari
+Docker Hub: priyakumari108
+
 
 
 
